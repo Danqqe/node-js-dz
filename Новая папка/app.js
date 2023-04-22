@@ -1,0 +1,1 @@
+<button type="submit" id="submit" onclick="greeter">Нажми меня</button>
